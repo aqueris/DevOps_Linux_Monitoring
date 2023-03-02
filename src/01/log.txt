@@ -1,0 +1,9 @@
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz0_081122 --- 8.11.2022 ---
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz0_081122/aaaz0_081122.az --- 8.11.2022 --- 3 Kb
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz0_081122/aaaz1_081122.az --- 8.11.2022 --- 3 Kb
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz1_081122 --- 8.11.2022 ---
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz1_081122/aaaz0_081122.az --- 8.11.2022 --- 3 Kb
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz1_081122/aaaz1_081122.az --- 8.11.2022 --- 3 Kb
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz2_081122 --- 8.11.2022 ---
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz2_081122/aaaz0_081122.az --- 8.11.2022 --- 3 Kb
+/home/elsa/Documents/projects/DO4_LinuxMonitoring_v2.0-0/src/01/aaaz2_081122/aaaz1_081122.az --- 8.11.2022 --- 3 Kb
